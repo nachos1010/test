@@ -1,2 +1,2 @@
-print("lol kek")
+print("kek lol")
 print(" i love masha lezina")
